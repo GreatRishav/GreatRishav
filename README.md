@@ -6,11 +6,7 @@ Welcome to my GitHub profile! I’m excited to share my projects, ideas, and con
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Generative AI** and exploring cutting-edge **ML/AI frameworks**.  
-- 🔭 Working on:  
-  - **Smart Agriculture** solutions.  
-  - **Node.js** projects with the `@google/generative-ai` package.  
-  - Making websites fully **responsive** and **user-friendly**.  
+- 🌱 Currently learning  CPP and exploring cutting-edge **ML/AI frameworks**.   
 - 🎯 Goal: To empower innovation and make technology more accessible.  
 - ⚡ Fun fact: I love combining creative design with impactful code!  
 
@@ -19,7 +15,8 @@ Welcome to my GitHub profile! I’m excited to share my projects, ideas, and con
 ## 🛠️ Tech Stack  
 
 **Programming & Scripting:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 **Web Development:**  
@@ -27,9 +24,6 @@ Welcome to my GitHub profile! I’m excited to share my projects, ideas, and con
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
-**Frameworks & Libraries:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
