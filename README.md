@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Rishav  
 **Passionate Developer | Technology Enthusiast | Lifelong Learner**
 
 Welcome to my GitHub profile! I’m excited to share my projects, ideas, and contributions with you. From machine learning and web development to IoT and open-source collaboration, my repository reflects my curiosity and drive to solve problems with technology.  
